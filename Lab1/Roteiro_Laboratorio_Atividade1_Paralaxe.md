@@ -252,6 +252,6 @@ Para que o observador tenha uma âncora visual, introduzimos um personagem que c
 
 ## 5. Código de Referência Integral
 
-O código funcional completo com todas as etapas integradas está disponível para consulta e validação no arquivo [Atividade1_Paralaxe.pde](file:///Atividade1_Paralaxe.pde).
+O código funcional completo com todas as etapas integradas está disponível para consulta e validação no arquivo [Atividade1_Paralaxe.pde](Atividade1_Paralaxe.pde).
 
 ---
